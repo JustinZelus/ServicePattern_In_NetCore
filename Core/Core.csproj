@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+	 <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.S3" Version="3.5.5.2" />
+    <PackageReference Include="NLog" Version="4.7.5" />
+    <PackageReference Include="PushSharp.Core" Version="1.0.2" />
+  </ItemGroup>
+
+</Project>
