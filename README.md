@@ -1,14 +1,14 @@
 # ServicePattern_In_NetCore
 
 ```
-在你的web api打造以服務為架構的設計模式
+web api服務為架構的設計模式
 Craft your own service in web api by using serivce pattern.
 ```
  
 ## 前言
 
 ```
-與微服務不同，但理念同，目的為盡量做到單一責任。
+共用的Lib可按此方式建構。
 ```
 
 ## 說明
